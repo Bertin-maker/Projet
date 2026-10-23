@@ -1,0 +1,78 @@
+{
+  "simulation": true,
+  "sources": [
+    "authentification.csv",
+    "acces_web.csv",
+    "processus.csv",
+    "flux_reseau.csv"
+  ],
+  "nombre_evenements": 155,
+  "signaux": [
+    {
+      "categorie": "authentification",
+      "indice": "Plusieurs echecs suivis de succes",
+      "utilisateur": "support.nora",
+      "ip": "192.0.2.47",
+      "horodatage_utc": "2026-10-19T09:15:02Z",
+      "nombre_echecs": 12,
+      "interpretation": "Indicateur a investiguer ; ne prouve pas la compromission"
+    },
+    {
+      "categorie": "export_web",
+      "indice": "Export volumineux",
+      "utilisateur": "support.nora",
+      "ip": "192.0.2.47",
+      "horodatage_utc": "2026-10-19T09:17:10Z",
+      "octets": 166200,
+      "chemin": "/api/exports?scope=tous",
+      "interpretation": "Verification des droits et du contexte metier requise"
+    },
+    {
+      "categorie": "export_web",
+      "indice": "Export volumineux",
+      "utilisateur": "support.nora",
+      "ip": "192.0.2.47",
+      "horodatage_utc": "2026-10-19T09:17:44Z",
+      "octets": 172800,
+      "chemin": "/api/exports?scope=tous",
+      "interpretation": "Verification des droits et du contexte metier requise"
+    },
+    {
+      "categorie": "export_web",
+      "indice": "Export volumineux",
+      "utilisateur": "agent.marc",
+      "ip": "10.20.1.22",
+      "horodatage_utc": "2026-10-19T09:25:00Z",
+      "octets": 152000,
+      "chemin": "/api/exports?scope=departement",
+      "interpretation": "Verification des droits et du contexte metier requise"
+    },
+    {
+      "categorie": "processus",
+      "indice": "Processus inhabituel depuis le service Web",
+      "hote": "WEB-01",
+      "horodatage_utc": "2026-10-19T09:18:25Z",
+      "interpretation": "Investigation necessaire ; preuve insuffisante"
+    },
+    {
+      "categorie": "flux",
+      "indice": "Flux sortant volumineux",
+      "source": "10.20.2.15",
+      "destination": "198.51.100.91",
+      "horodatage_utc": "2026-10-19T09:19:05Z",
+      "octets": 14600000,
+      "contexte": "Destination externe non classee",
+      "interpretation": "Comparer a la sauvegarde autorisee et au role de l actif"
+    },
+    {
+      "categorie": "flux",
+      "indice": "Flux sortant volumineux",
+      "source": "10.20.2.10",
+      "destination": "198.51.100.20",
+      "horodatage_utc": "2026-10-19T09:23:00Z",
+      "octets": 15200000,
+      "contexte": "Sauvegarde approuvee, volume eleve attendu",
+      "interpretation": "Comparer a la sauvegarde autorisee et au role de l actif"
+    }
+  ]
+}

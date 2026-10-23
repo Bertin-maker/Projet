@@ -1,0 +1,62 @@
+﻿horodatage_utc,hote,utilisateur,ip_source,evenement,resultat,contexte
+2026-10-19T08:45:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T08:47:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T08:49:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T08:51:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T08:53:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T08:55:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T08:57:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T08:59:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:01:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:03:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:05:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:07:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:09:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:10:00Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:10:17Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:10:34Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:10:51Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:11:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:11:08Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:11:25Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:11:42Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:11:59Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:12:16Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:12:33Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:12:50Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:13:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:13:07Z,WEB-01,support.nora,192.0.2.47,4625,ECHEC,Mot de passe invalide
+2026-10-19T09:15:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:15:02Z,WEB-01,support.nora,192.0.2.47,4624,SUCCES,Ouverture de session
+2026-10-19T09:17:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:19:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:21:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:22:00Z,WEB-01,agent.marc,10.20.1.22,4625,ECHEC,Erreur de frappe plausible
+2026-10-19T09:22:10Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Nouvelle tentative habituelle
+2026-10-19T09:23:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:25:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:27:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:29:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:31:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:33:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:35:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:37:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:39:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:41:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:43:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:45:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:47:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:49:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:51:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:53:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T09:55:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T09:57:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T09:59:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T10:01:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T10:03:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T10:05:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T10:07:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T10:09:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle
+2026-10-19T10:11:00Z,WEB-01,agent.marc,10.20.1.22,4624,SUCCES,Session habituelle
+2026-10-19T10:13:00Z,WEB-01,support.nora,10.20.1.23,4624,SUCCES,Session habituelle
+2026-10-19T10:15:00Z,WEB-01,agent.lina,10.20.1.21,4624,SUCCES,Session habituelle

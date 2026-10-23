@@ -1,0 +1,29 @@
+﻿horodatage_utc,source,destination,port_destination,octets_sortants,service
+2026-10-19T08:45:00Z,10.20.2.10,198.51.100.20,443,25000,Mise a jour / telemetrie de reference
+2026-10-19T08:49:00Z,10.20.2.15,198.51.100.21,443,25900,Mise a jour / telemetrie de reference
+2026-10-19T08:53:00Z,10.20.2.10,198.51.100.20,443,26800,Mise a jour / telemetrie de reference
+2026-10-19T08:57:00Z,10.20.2.15,198.51.100.21,443,27700,Mise a jour / telemetrie de reference
+2026-10-19T09:01:00Z,10.20.2.10,198.51.100.20,443,28600,Mise a jour / telemetrie de reference
+2026-10-19T09:05:00Z,10.20.2.15,198.51.100.21,443,29500,Mise a jour / telemetrie de reference
+2026-10-19T09:09:00Z,10.20.2.10,198.51.100.20,443,30400,Mise a jour / telemetrie de reference
+2026-10-19T09:13:00Z,10.20.2.15,198.51.100.21,443,31300,Mise a jour / telemetrie de reference
+2026-10-19T09:17:00Z,10.20.2.10,198.51.100.20,443,32200,Mise a jour / telemetrie de reference
+2026-10-19T09:19:05Z,10.20.2.15,198.51.100.91,443,14600000,Destination externe non classee
+2026-10-19T09:21:00Z,10.20.2.15,198.51.100.21,443,33100,Mise a jour / telemetrie de reference
+2026-10-19T09:23:00Z,10.20.2.10,198.51.100.20,443,15200000,"Sauvegarde approuvee, volume eleve attendu"
+2026-10-19T09:25:00Z,10.20.2.10,198.51.100.20,443,34000,Mise a jour / telemetrie de reference
+2026-10-19T09:29:00Z,10.20.2.15,198.51.100.21,443,34900,Mise a jour / telemetrie de reference
+2026-10-19T09:33:00Z,10.20.2.10,198.51.100.20,443,35800,Mise a jour / telemetrie de reference
+2026-10-19T09:37:00Z,10.20.2.15,198.51.100.21,443,36700,Mise a jour / telemetrie de reference
+2026-10-19T09:41:00Z,10.20.2.10,198.51.100.20,443,37600,Mise a jour / telemetrie de reference
+2026-10-19T09:45:00Z,10.20.2.15,198.51.100.21,443,38500,Mise a jour / telemetrie de reference
+2026-10-19T09:49:00Z,10.20.2.10,198.51.100.20,443,39400,Mise a jour / telemetrie de reference
+2026-10-19T09:53:00Z,10.20.2.15,198.51.100.21,443,40300,Mise a jour / telemetrie de reference
+2026-10-19T09:57:00Z,10.20.2.10,198.51.100.20,443,41200,Mise a jour / telemetrie de reference
+2026-10-19T10:01:00Z,10.20.2.15,198.51.100.21,443,42100,Mise a jour / telemetrie de reference
+2026-10-19T10:05:00Z,10.20.2.10,198.51.100.20,443,43000,Mise a jour / telemetrie de reference
+2026-10-19T10:09:00Z,10.20.2.15,198.51.100.21,443,43900,Mise a jour / telemetrie de reference
+2026-10-19T10:13:00Z,10.20.2.10,198.51.100.20,443,44800,Mise a jour / telemetrie de reference
+2026-10-19T10:17:00Z,10.20.2.15,198.51.100.21,443,45700,Mise a jour / telemetrie de reference
+2026-10-19T10:21:00Z,10.20.2.10,198.51.100.20,443,46600,Mise a jour / telemetrie de reference
+2026-10-19T10:25:00Z,10.20.2.15,198.51.100.21,443,47500,Mise a jour / telemetrie de reference

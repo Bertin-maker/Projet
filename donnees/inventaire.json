@@ -1,0 +1,32 @@
+{
+  "organisation": "NordCampus (fictive)",
+  "environnement": "simulation uniquement",
+  "actifs": [
+    {
+      "nom": "WEB-01",
+      "ip": "10.20.2.15",
+      "type": "serveur portail Python Flask",
+      "criticite": "elevee",
+      "composants": [
+        "Python 3.12",
+        "Flask"
+      ],
+      "journalisation": "synthetique"
+    },
+    {
+      "nom": "POSTE-07",
+      "ip": "10.20.2.10",
+      "type": "poste de sauvegarde",
+      "criticite": "moyenne",
+      "composants": [
+        "Windows 11"
+      ],
+      "journalisation": "synthetique"
+    }
+  ],
+  "observations": [
+    "Aucune dependance Java ou log4j identifiee dans cet inventaire.",
+    "Le volume de sauvegarde depuis POSTE-07 vers 198.51.100.20 est approuve.",
+    "Les IP 192.0.2.0/24 et 198.51.100.0/24 sont reservees a la documentation."
+  ]
+}

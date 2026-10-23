@@ -1,0 +1,6 @@
+# Exemple pedagogique : ne pas deployer
+FROM python:3.12
+WORKDIR /app
+COPY . .
+# Aucun utilisateur non privilegie n'est defini
+CMD ["python", "app.py"]
